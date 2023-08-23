@@ -1,0 +1,109 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  background-color: #E4F9F5;
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 90px;
+  width: 10%
+  margin: 50px auto 0 auto;
+  margin-top: 20px;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  color: #66BFBF;
+  font-size: 25px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+}
+
+h3 {
+  color:  #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+img {
+  border-radius: 100%;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 7px;
+  width: 20%;
+}
+
+.top-container {
+  padding-top: 0px;
+  background-color: #E4F9F5;
+}
+
+.middle-container {}
+
+.bottom-container {}
+
+.cloud-2 {
+  position: absolute;
+  border-radius: 0%;
+}
+
+.cloud-1 {
+  margin-left: 500px;
+  border-radius: 0%;
+}
+.skill-row{
+width: 50%;
+margin: 100px auto 100px auto;
+text-align: left;
+line-height: 2;
+}
+
+.mount-1 {
+  border-radius: 0%;
+}
+.footer-link:hover{
+  background-color:  grey;
+}
+.btn:hover{
+  background-color:  grey;
+}
+.footer-link{
+  color: #11999E;
+}
+.btn{
+  color:  #11999E;
+}
+.baseball-pics{
+  width: 40%;
+  float: left;
+margin-right: 30px;
+}
+.baking-img{
+  width: 40%;
+  float: right;
+  margin-left: : 30px;
+}
+.developer-pics{
+  width: 40%;
+  float: left;
+margin-right: 35px;
+}
+.tachyon-pics{
+  width: 40%;
+  border-radius: 100%;
+  padding: 2px 2px 2px 10px;
+}
+.help-column{
+  margin-left: 1300px;
+}
+.skills{
+  background-color:powderblue;
+  border-radius: 20%;
+}
+.help-column:hover{
+background-color: powderblue;
+}
